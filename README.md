@@ -9,4 +9,4 @@ Recursos utilizados CSS em destaques.
 
 > Video demonstração -
 >
-> [Here](https://www.linkedin.com/posts/heliezer-garcia_css-github-globalhitss-activity-6827091092505206784-Q4uXhttps:/)
+> [Here](https://www.linkedin.com/posts/heliezer-garcia_css-github-globalhitss-activity-6827091092505206784-Q4uX)
